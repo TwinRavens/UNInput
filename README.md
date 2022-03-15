@@ -6,3 +6,4 @@ The name stands for Universal Network Input. This project focus on amplifying th
 
 * Gabriel Lanzer Kannenberg (gabriellanzerlive@hotmail.com)
 * Leonardo Gomes Santana (leonardogsantana@live.com)
+* Luiz Augusto Wendt (luizaugustow_1@msn.com)

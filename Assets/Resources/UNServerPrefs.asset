@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86d83a6e0eb418c429c3050a2751e32e, type: 3}
+  m_Name: UNServerPrefs
+  m_EditorClassIdentifier: 
+  InterfaceAsset: {fileID: 1758991629141964, guid: 5f96ffca1650f78448f1679d84955ccf,
+    type: 3}
+  AssetName: Virtual Input Control.prefab
+  Inputs:
+  - type: 1
+    axis_code: 0
+    key_down: 32
+    key_up: 275
+    button_code: 1
+    name: Action
+  - type: 1
+    axis_code: 0
+    key_down: 27
+    key_up: 275
+    button_code: 8
+    name: Start
+  - type: 1
+    axis_code: 0
+    key_down: 27
+    key_up: 275
+    button_code: 2
+    name: Back
+  - type: 0
+    axis_code: 1
+    key_down: 276
+    key_up: 275
+    button_code: 2
+    name: Horizontal
+  - type: 0
+    axis_code: 2
+    key_down: 274
+    key_up: 273
+    button_code: 2
+    name: Vertical

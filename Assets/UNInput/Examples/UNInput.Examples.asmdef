@@ -1,0 +1,16 @@
+{
+    "name": "UNInput.Examples",
+    "rootNamespace": "",
+    "references": [
+        "GUID:40e77ebf85a63074592d3b1301bc4466"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
